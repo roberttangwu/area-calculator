@@ -1,0 +1,6 @@
+C:\Users\Host\Desktop\Area calculator\Area calculator\obj\Debug\Area calculator.csprojAssemblyReference.cache
+C:\Users\Host\Desktop\Area calculator\Area calculator\bin\Debug\Area calculator.exe.config
+C:\Users\Host\Desktop\Area calculator\Area calculator\bin\Debug\Area calculator.exe
+C:\Users\Host\Desktop\Area calculator\Area calculator\bin\Debug\Area calculator.pdb
+C:\Users\Host\Desktop\Area calculator\Area calculator\obj\Debug\Area calculator.exe
+C:\Users\Host\Desktop\Area calculator\Area calculator\obj\Debug\Area calculator.pdb
